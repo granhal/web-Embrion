@@ -38,3 +38,9 @@ Este proyecto nace en la UNIVERSIDAD DE SEVILLA, es un proyecto de videojuego.
 
 Este código tiene licencia, para más información info@cantelymedia.com ó info@brainside.es
 ------------------------------------------------------------------------------------------
+<!-- Website designed and developed by www.cantelymedia.com Alberto Gutiérrez Romero @granhal (twitter) -->
+<!-- Web diseñada y desarrollada por www.cantelymedia.com Alberto Gutiérrez Romero @granhal (twitter) -->
+<!-- ######################################################## -->
+<!-- embrion.es videogame, Embrion is a project of <a href="http://brainside.es">Brainside Studio.</a> -->
+<!-- Todos los derechos reservados, 2013. -->
+<!-- All rights reserved 2013. -->
