@@ -1,10 +1,7 @@
 Embrion
 =======
 
-website embrion.es
-
-Este código tiene licencia, para más información info@cantelymedia.com ó info@brainside.es
-==========================================================================================
+  Website embrion.es
 
 Material usado para realizar la web:
   - HTML 5
@@ -37,3 +34,7 @@ Cosas por hacer:
   - etc.. (ideas varias).
 
 Este proyecto nace en la UNIVERSIDAD DE SEVILLA, es un proyecto de videojuego.
+
+
+Este código tiene licencia, para más información info@cantelymedia.com ó info@brainside.es
+------------------------------------------------------------------------------------------
