@@ -28,6 +28,7 @@ Cosas por hacer:
     - Depurar parallax.
     - Depurar código servidor (orientarlo más a objetos con la versión nueva de PHP).
   - Actualizar librerias o añadir el autoUpdate.
+  - Actualizar la forma de traducir los textos.
   - Terminar los perfiles de los usuarios:
     - Terminar el sistema de logros en el perfil.
     - Terminar el sistema de acuerdos en el perfil.
